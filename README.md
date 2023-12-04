@@ -11,7 +11,7 @@
 
 - 📫 Escríbeme a **davidcst2991@gmail.com**
 
-<h3 align="center">Podemos conectar por <span><a href="https://linkedin.com/in/david costa yafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david costa yafar" height="30" width="40" /></a></span></h3>
+<h3 align="left">O podemos conectar por <span><a href="https://linkedin.com/in/david costa yafar" target="blank"><img align="rigth" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david costa yafar" height="30" width="40" /></a></span></h3>
 
 
 <h3 align="left">Algunas de las herramientas con las que me siento comodo:</h3>
