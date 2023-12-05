@@ -3,12 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=davidcosta92&label=Profile%20views&color=0e75b6&style=flat" alt="davidcosta92" /> </p>
 
-<h3 align="center"> <span><a href="https://davidcosta92.github.io/porfolio-david-costa/" target="blank">Puedes ver mi porfolio Aqui :briefcase:</a></span></h3>
+<h2 align="center"> <span><a href="https://davidcosta92.github.io/porfolio-david-costa/" target="blank">Puedes ver mi porfolio Aqui :briefcase:</a></span></h2>
 
 <h3 align="center">O podemos conectar por <span><a href="https://linkedin.com/in/david costa yafar" target="blank"><img align="rigth" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david costa yafar" height="30" width="40" /></a></span></h3>
 
+<p><br></p>
 
-<h3 align="center">Algunas de las herramientas con las que me siento comodo</h3>
+<h3 align="center">Algunas de las herramientas con las que suelo trabajar</h3>
 
 <span >
 <p><br></p>
